@@ -1,0 +1,1 @@
+Sentiment Analysis: Quantifying Public Discourse Toward the 2024 Indonesia Election - Approval/Disapproval Rates Utilizing the Fine Tuned IndoBERT POS Tagger Model. Combining Sentiment Analysis and Information Retrieval Method with highest similarity score of 95.81%.
